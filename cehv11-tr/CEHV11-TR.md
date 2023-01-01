@@ -1,4 +1,6 @@
-﻿Benimle iletişime geçmek isterseniz; https://www.linkedin.com/in/emirhan-konuk-393449160/
+﻿![](cehv11-header.png)
+
+Benimle iletişime geçmek isterseniz; [Emirhan Konuk In - İletişime Geç ! ](https://www.linkedin.com/in/emirhan-konuk-393449160/)
 
 İÇİNDEKİLER
 
