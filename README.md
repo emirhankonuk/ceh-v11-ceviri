@@ -5,7 +5,7 @@ Zaman zaman Siber Güvenlik sektöründe yeni başlayan arkadaşlar için türk�
 ## Katkıda Bulunanlar (Contributors)
 * [@emirhankonuk](https://github.com/emirhankonuk) - Emirhan Konuk
 * [@canberkdmn](https://github.com/canberkdmn) - Canberk Duman 
-* [Onur Karaahmetoğlu 
+* Onur Karaahmetoğlu 
 * [Pınar Güneş](https://github.com/DFIR-4n6)
 * Davut Emre Özer
 * [@azizvangogh](https://github.com/azizvangogh)Azizcan Daştan
