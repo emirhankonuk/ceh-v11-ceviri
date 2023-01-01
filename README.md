@@ -8,7 +8,7 @@ Zaman zaman Siber Güvenlik sektöründe yeni başlayan arkadaşlar için türk�
 * Onur Karaahmetoğlu 
 * [Pınar Güneş](https://github.com/DFIR-4n6)
 * Davut Emre Özer
-* [@azizvangogh](https://github.com/azizvangogh)Azizcan Daştan
+* [@azizvangogh](https://github.com/azizvangogh) - Azizcan Daştan
 
 ve ne kadar destek olmak istese de iş yoğunluğundan 
 dolayı yardımcı olamayan ama moral ve motivasyon olarak destek duran Murat Cırban
